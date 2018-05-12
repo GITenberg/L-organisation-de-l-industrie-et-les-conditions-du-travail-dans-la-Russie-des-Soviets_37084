@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38697'
     url: http://www.gutenberg.org/2009/agents/38697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37084#L-organisation-de-l-industrie-et-les-conditions-du-travail-dans-la-Russie-des-Soviets
 gutenberg_bookshelf: FR Droit et Justice
 gutenberg_issued: '2011-08-14'
 gutenberg_type: Text
