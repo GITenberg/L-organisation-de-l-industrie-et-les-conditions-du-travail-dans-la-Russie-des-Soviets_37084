@@ -1,0 +1,31 @@
+_repo: L-organisation-de-l-industrie-et-les-conditions-du-travail-dans-la-Russie-des-Soviets_37084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: International Labour Office
+    aliases:
+    - International Labor Office
+    - Bureau international du travail
+    gutenberg_agent_id: '38697'
+    url: http://www.gutenberg.org/2009/agents/38697
+description: ''
+gutenberg_bookshelf: FR Droit et Justice
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37084'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Industries -- Soviet Union'
+- !lcsh 'Working class -- Soviet Union'
+- !lcsh 'Industrial policy -- Soviet Union'
+title: L'organisation de l'industrie et les conditions du travail dans la Russie des
+  Soviets
+url: http://www.gutenberg.org/ebooks/37084
